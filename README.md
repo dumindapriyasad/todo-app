@@ -11,7 +11,8 @@ This is a simple To-do App created with **React** and **Chakra UI**. This app is
 
 ### Snapshot
 
-
+![todo-app-01](https://user-images.githubusercontent.com/95137446/175603766-04c5e01c-f979-49f1-81b6-b09ba998b8ff.png)
+![todo-app-02](https://user-images.githubusercontent.com/95137446/175603879-4670d184-7ef3-4bcb-86cd-5faf6185ea8e.png)
 
 ### Live app
 
