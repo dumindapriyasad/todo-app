@@ -2,12 +2,7 @@
 
 ### Description
 
-This is a simple To-do App created with **React** and **Chakra UI**. This app is also fully **responsive** and has a **dark mood** option.
-
-### Technologies
-
-- React JavaScript Library
-- Chakra UI Component Library
+This is a simple To-Do App built with **React** and **Chakra UI**. This app is also fully **responsive** and includes a **dark mood** option.
 
 ### Snapshots
 
